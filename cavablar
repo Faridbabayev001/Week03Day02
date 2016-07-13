@@ -1,0 +1,40 @@
+Tapşırıq 1.
+Düzgün və oxunaqlı CSS kodu yazmaq üçün lazım olabiləcək 10 qayda yazın
+
+1.Kod təkrarına yol verməməli.
+2.Ən asan yol budur deyib hazır kodlardan istifadə etməməli.
+3.İstifadə ediləcək background şəkillərinin ölçünüsü düşünməli və mümkün qədər həcmi az olan şəkildən istifadə etməli (məsələn png formatında).
+4.CSS kodlarını əlifba sırası ilə yazmaq.
+5.Kodu kommentlərlə yazmaq.(Digər istifadəçinin kodu rahat anlaması üçün).
+6.Standart və mənalı adlardan istifadə etməli(məsəslən html-də menu divinə .menu class-ı vermək).
+7.Kodları qisaltmalı məsələn(font-weight: bold;font-family: verdana, sans-serif;font-size: 11px;
+line-height: 15px; əvəzinə font: bold 11px/15px verdana, sans-serif; yazmaq).
+8.Kodlar sistemli şəkildə səliqəli yazılmalıdır.
+9.Kodu yazmamışdan əvvəl commentlərlə html faylinin skeletini qurmaqlı yəni əvvəlcədən hansı klası harda yazacağını göstərməli.
+10.Gördüyümüz işin məsuliyyətini dərk etməli və hər bir kiçik detallara diqqət etməli.
+
+
+Tapşırıq 2.
+Font Awesome kimi ikon fontları varmı? Varsa qisaca haqlarinda məlumat verin
+
+fontello.com bu saytdakı iconlardan istifadə etmək üçün istədiyiniz iconu seçib həmin iconun css fayllarını .zip fayli kimi köçürüb html faylında link vasitəsilə fontello.css faylını əlaqələndiririk.
+
+
+Tapşırıq 3.
+Azərbaycan şriftlərini dəstəkləyən 10 ədəd font ailəsinin adını və istifadə qaydasını yazın.
+
+1.Tinos
+2.Arimo
+3.Andika
+4.Arial
+5.Ubuntu Mono
+6.Cousine
+7.Didact Gothic
+8.Noto Sans
+9.Tinos
+10.Merriweather
+
+istafdə qaydası: məsələn Merriweather fontundan istifadə etmək üçün css-də font-family: 'Merriweather', serif;
+ kimi yazıb html-də bu css linkini əlaqələndirmək lazımdır <link href='https://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+
+
